@@ -1,0 +1,14 @@
+C:\Users\LABAdmin\source\repos\Activity1\obj\Debug\net8.0\Activity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LABAdmin\source\repos\Activity1\obj\Debug\net8.0\Activity1.AssemblyInfoInputs.cache
+C:\Users\LABAdmin\source\repos\Activity1\obj\Debug\net8.0\Activity1.AssemblyInfo.cs
+C:\Users\LABAdmin\source\repos\Activity1\obj\Debug\net8.0\Activity1.csproj.CoreCompileInputs.cache
+C:\Users\LABAdmin\source\repos\Activity1\bin\Debug\net8.0\Activity1.exe
+C:\Users\LABAdmin\source\repos\Activity1\bin\Debug\net8.0\Activity1.deps.json
+C:\Users\LABAdmin\source\repos\Activity1\bin\Debug\net8.0\Activity1.runtimeconfig.json
+C:\Users\LABAdmin\source\repos\Activity1\bin\Debug\net8.0\Activity1.dll
+C:\Users\LABAdmin\source\repos\Activity1\bin\Debug\net8.0\Activity1.pdb
+C:\Users\LABAdmin\source\repos\Activity1\obj\Debug\net8.0\Activity1.dll
+C:\Users\LABAdmin\source\repos\Activity1\obj\Debug\net8.0\refint\Activity1.dll
+C:\Users\LABAdmin\source\repos\Activity1\obj\Debug\net8.0\Activity1.pdb
+C:\Users\LABAdmin\source\repos\Activity1\obj\Debug\net8.0\Activity1.genruntimeconfig.cache
+C:\Users\LABAdmin\source\repos\Activity1\obj\Debug\net8.0\ref\Activity1.dll
